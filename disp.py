@@ -17,7 +17,7 @@ import os
 for file in os.listdir(os.curdir):
     print file'''
 
-mndata = MNIST(os.getcwd()) # here '.' denotes the current working directory
+mndata = MNIST(os.getcwd()) # here '.' and os.getcwd gives the same output which is the current working directory.
 images,labels=mndata.load_training()
 #images,labels=mndata.load_testing()
 

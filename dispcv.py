@@ -6,6 +6,9 @@
 ##importing os library to migrate the directory from one place to another place
 
 ##the code is copied and referred from https://stackoverflow.com/questions/40427435/extract-images-from-idx3-ubyte-file-or-gzip-via-python
+#https://stackoverflow.com/questions/46689428/convert-np-array-of-type-float64-to-type-uint8-scaling-values
+#https://askubuntu.com/questions/342202/failed-to-load-module-canberra-gtk-module-but-already-installed
+
 
 ##importing opencv libraries to view it graphically. Required to display it graphically
 

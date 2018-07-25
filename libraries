@@ -1,0 +1,9 @@
+apt install python-pip
+pip install -U tensorflow
+pip install mnist
+pip install keras
+
+
+https://keras.io/ to install necessary dependencies that includes tensorflow and theano
+
+
